@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Amardeep Kumar</h1>
 <h3 align="center">A passionate Java Backend developer from India</h3>
 
-<img align = "right" alt = "coding" width = "400" src = "https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adpkr&label=Profile%20views&color=0e75b6&style=flat" alt="adpkr" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adpkr" alt="adpkr" /></a> </p>
+
 - 🌱 I’m currently learning **Core Java and MySQL**
+
+- 👨‍💻 All of my projects are available at [https://aesthetic-griffin-a5d71d.netlify.app/](https://aesthetic-griffin-a5d71d.netlify.app/)
 
 - 📫 How to reach me **adp07070707@gmail.com**
 
@@ -24,3 +26,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adpkr&show_icons=true&locale=en" alt="adpkr" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adpkr&" alt="adpkr" /></p>
+
