@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Amardeep Kumar</h1>
 <h3 align="center">A passionate Java Backend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adpkr&label=Profile%20views&color=0e75b6&style=flat" alt="adpkr" /> </p>
-
+<p align="center"> <img src="https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?w=2000" alt="adpkr"  width="100%" height="350" /> </p>
+ 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adpkr" alt="adpkr" /></a> </p>
 
 - 🌱 I’m currently learning **Core Java and MySQL**
